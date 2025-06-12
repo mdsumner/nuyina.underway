@@ -15,3 +15,5 @@ Imports:
     dplyr,
     tibble,
     vapour
+URL: https://github.com/mdsumner/nuyina.underway
+BugReports: https://github.com/mdsumner/nuyina.underway/issues
