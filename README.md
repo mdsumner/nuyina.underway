@@ -18,7 +18,7 @@ the service what data is new.
 The cache lives here, and can be read at any time with Parquet readers
 (Arrow, GDAL, etc):
 
-‘<https://github.com/mdsumner/uwy.new/releases/download/v0.0.1/nuyina_underway.parquet>’
+‘<https://github.com/mdsumner/nuyina-underway/releases/download/v0.0.1/nuyina_underway.parquet>’
 
 ## Installation
 

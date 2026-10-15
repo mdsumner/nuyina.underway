@@ -29,5 +29,5 @@ nuyina_underway <- function() {
 }
 
 nuyina_underway_url <- function() {
-  "https://github.com/mdsumner/uwy.new/releases/download/v0.0.1/nuyina_underway.parquet"
+  "https://github.com/mdsumner/nuyina-underway/releases/download/v0.0.1/nuyina_underway.parquet"
 }
